@@ -11,6 +11,10 @@ Welcome to **Rock, Paper, Scissors**, a classic game built with Python where you
 ## 🎮 How to Play
 The game runs directly in your terminal. You'll be prompted to choose between rock, paper, or scissors. The computer will make its choice at random, and the winner will be announced right away.
 
+```bash
+python rock_paper_scissors.py
+```
+
 ## ✨ Features
 - 🤖 Randomized computer choices
 - 🆚 Instant win/lose/draw result
